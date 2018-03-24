@@ -137,7 +137,7 @@
        <enum>QProgressBar::BottomToTop</enum>
       </property>
       <property name="format">
-       <string>5V c-Pipeline: %vV</string>
+       <string>12V r-Pipeline: %vV</string>
       </property>
      </widget>
     </item>
@@ -165,7 +165,7 @@
        <enum>QProgressBar::BottomToTop</enum>
       </property>
       <property name="format">
-       <string>5V c-Pipeline: %vV</string>
+       <string>24V c-Pipeline: %vV</string>
       </property>
      </widget>
     </item>
@@ -193,7 +193,7 @@
        <enum>QProgressBar::BottomToTop</enum>
       </property>
       <property name="format">
-       <string>5V c-Pipeline: %vV</string>
+       <string>24V r-Pipeline: %vV</string>
       </property>
      </widget>
     </item>
@@ -221,7 +221,7 @@
        <enum>QProgressBar::BottomToTop</enum>
       </property>
       <property name="format">
-       <string>5V c-Pipeline: %vV</string>
+       <string>48V c-Pipeline: %vV</string>
       </property>
      </widget>
     </item>
@@ -249,7 +249,7 @@
        <enum>QProgressBar::BottomToTop</enum>
       </property>
       <property name="format">
-       <string>5V c-Pipeline: %vV</string>
+       <string>48V r-Pipeline: %vV</string>
       </property>
      </widget>
     </item>
